@@ -1,0 +1,9 @@
+{
+    "endpoints": [
+        "https://httpbin.org/status/200",
+        "https://api.github.com",
+        "https://www.cloudflare.com/cdn-cgi/trace",
+        "https://registry.npmjs.org/-/ping",
+        "https://hub.docker.com/v2/"
+    ]
+}
